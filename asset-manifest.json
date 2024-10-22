@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.2efdc439.css",
+    "main.js": "/MyPortfolio/static/js/main.54476d59.js",
+    "static/js/453.acca0757.chunk.js": "/MyPortfolio/static/js/453.acca0757.chunk.js",
+    "static/media/bgpic70.png": "/MyPortfolio/static/media/bgpic70.8d8c8e1a6bd23eda3d1f.png",
+    "static/media/cert2.jpg": "/MyPortfolio/static/media/cert2.d4c652eb004b5f763950.jpg",
+    "static/media/cert1.jpg": "/MyPortfolio/static/media/cert1.2b2eb761f5a678a4f9ef.jpg",
+    "static/media/Jhanavi Dave Resume.pdf": "/MyPortfolio/static/media/Jhanavi Dave Resume.7716de0b833dff83b890.pdf",
+    "index.html": "/MyPortfolio/index.html",
+    "main.2efdc439.css.map": "/MyPortfolio/static/css/main.2efdc439.css.map",
+    "main.54476d59.js.map": "/MyPortfolio/static/js/main.54476d59.js.map",
+    "453.acca0757.chunk.js.map": "/MyPortfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2efdc439.css",
+    "static/js/main.54476d59.js"
+  ]
+}
